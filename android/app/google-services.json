@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766593225760",
+    "project_id": "camtravel-2af92",
+    "storage_bucket": "camtravel-2af92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766593225760:android:3df36fb717a01599791845",
+        "android_client_info": {
+          "package_name": "com.example.cam_travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX91IYQwZufBnrQEXrDQ-O8htqA4jHa50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
